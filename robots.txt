@@ -1,0 +1,11 @@
+# Robots.txt file for Sarthak Sanjay Lolge's Developer Portfolio
+# Tells search engines which pages to crawl. For static single-page sites, allow all.
+
+User-agent: *
+Allow: /
+
+# Update the URL below with your actual domain name after hosting
+Host: https://sarthak-lolge.netlify.app
+
+# Sitemap Location
+Sitemap: https://sarthak-lolge.netlify.app/sitemap.xml
